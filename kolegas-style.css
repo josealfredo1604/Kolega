@@ -151,8 +151,8 @@ form .info div {
 }
 
 #fo2li1 span {
-    width: 100%;
-    max-width: 50%;
+    width: 100% !important;
+    max-width: 50% !important;
 }
 
 @media (max-width: 767px) {
