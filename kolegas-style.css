@@ -13,6 +13,7 @@ body {
     /* max-width: 680px; */
     /* margin: 40px auto; */
     box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    width: auto;
 }
 
 /* Ocultar el logo de Wufoo */
