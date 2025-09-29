@@ -15,6 +15,9 @@ body {
     box-shadow: 0 4px 12px rgba(0,0,0,0.05);
     width: auto;
 }
+.embed #container {
+    width: auto !important;
+}
 
 /* Ocultar el logo de Wufoo */
 #logo {
