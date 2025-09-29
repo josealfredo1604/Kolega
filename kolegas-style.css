@@ -150,6 +150,11 @@ form .info div {
     background-color: #d44a36;
 }
 
+#fo2li1 span {
+    width: 100%;
+    max-width: 50%;
+}
+
 @media (max-width: 767px) {
     .wufoo li {
         flex-direction: column;
