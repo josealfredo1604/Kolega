@@ -159,11 +159,11 @@ form .info div {
     max-width: 50% !important;
 }
 
-form ul #fo2li1 label {
+form ul .notranslate label {
     display: none;
 }
 
-form ul #fo2li1 {
+form ul .notranslate {
     display: flex;
     gap: 20px;
 }
