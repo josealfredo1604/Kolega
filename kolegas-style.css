@@ -153,22 +153,15 @@ form .info div {
 .wufoo .btTxt.submit:hover {
     background-color: #d44a36;
 }
-
+#fo2li1 {
+    gap: 20px !important;
+ #title1 {
+     display: none !important;
+ }   
+}
 #fo2li1 span {
     width: 100% !important;
-    max-width: 50% !important;
-}
-
-form ul .notranslate label {
-    display: none;
-}
-
-.wufoo li #title1 {
-    display: none !important;
-}
-form ul .notranslate {
-    display: flex;
-    gap: 20px;
+    max-width: 45% !important;
 }
 
 @media (max-width: 767px) {
