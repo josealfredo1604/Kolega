@@ -159,6 +159,10 @@ form .info div {
     max-width: 50% !important;
 }
 
+form ul #fo2li1 label {
+    display: none;
+}
+
 @media (max-width: 767px) {
     .wufoo li {
         flex-direction: column;
