@@ -163,6 +163,9 @@ form ul .notranslate label {
     display: none;
 }
 
+.wufoo li #title1 {
+    display: none !important;
+}
 form ul .notranslate {
     display: flex;
     gap: 20px;
