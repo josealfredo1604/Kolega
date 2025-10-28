@@ -161,7 +161,7 @@ form .info div {
     /*max-width: 48% !important;*/
 }
 .wufoo li.focused span,
-wufoo li span {
+.wufoo li span {
     width: 100%;
     .field.text.ln {
         width: 100%;
@@ -169,7 +169,7 @@ wufoo li span {
 }
 
 .noI form li, .altInstruct form li {
-    width: 100%;
+    width: 100% !important;
 }
 /*@media (max-width: 1276px) {
 }*/
