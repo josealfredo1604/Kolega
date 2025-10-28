@@ -52,7 +52,7 @@ form .info div {
 
 /* Contenedor de cada campo */
 .wufoo li {
-    padding: 12px 0;
+    padding: 12px 0 0;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -158,9 +158,10 @@ form .info div {
 }
 #fo2li1 span {
     width: 100% !important;
-    max-width: 48% !important;
+    /*max-width: 48% !important;*/
 }
-
+/*@media (max-width: 1276px) {
+}*/
 @media (max-width: 767px) {
     .wufoo li {
         flex-direction: column;
