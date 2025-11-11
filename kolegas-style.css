@@ -174,9 +174,13 @@ form .info div {
 .recaptcha-text {
     display: none !important;
 }
-#footer {
-    display: none !important;
+.wufoo li.focused {
+    background-color: #fff !important;
 }
+.notranslate.focused {
+    gap: 0px !important;
+}
+
 /*@media (max-width: 1276px) {
 }*/
 @media (max-width: 767px) {
