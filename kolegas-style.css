@@ -171,6 +171,12 @@ form .info div {
 .noI form li, .altInstruct form li {
     width: 100% !important;
 }
+.recaptcha-text {
+    display: none !important;
+}
+#footer {
+    display: none !important;
+}
 /*@media (max-width: 1276px) {
 }*/
 @media (max-width: 767px) {
