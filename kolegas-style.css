@@ -25,7 +25,7 @@ body {
 }
 
 /* Estilos del encabezado del formulario */
-form .info div {
+.wufoo .info div {
     font-size: 35px;
     font-weight: 400;
     color: #333;
